@@ -26,10 +26,10 @@ Classification Report:
         Flat       0.86      0.75      0.80       107
     Accuracy                           0.78       184
 
-
+```
 
 ### 2.Random Forest Classifier
-
+```text
 Accuracy: 88%
 
 Classification Report:
@@ -37,7 +37,11 @@ Classification Report:
         Down       0.86      0.86      0.86        77
         Flat       0.90      0.90      0.90       107
     Accuracy                           0.88       184
-📌 Example Visualizations
+```
+
+
+### 📌 Example Visualizations
+```text
  How to Run
  1.Clone the repo:
  git clone https://github.com/basmala-19/decision-tree-Random-forest.git
